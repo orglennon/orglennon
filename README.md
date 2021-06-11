@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @orglennon
+- 👀 I’m interested in information design, building tools, & software for textiles
+- 🌱 I’m currently learning how to read + write WIF format
+- 💼 Working @fathominfo
