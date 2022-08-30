@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @orglennon
+- 👋 Hi, I’m Olivia Glennon
 - 👀 I’m interested in information design, building tools, & software for textiles
 - 🌱 I’m currently learning how to read + write WIF format
 - 💼 Working @fathominfo
