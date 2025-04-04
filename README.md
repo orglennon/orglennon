@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Olivia Glennon
 - 👀 I’m interested in information design, building tools, & writing code for healthcare + textiles
 - 🌱 I’m currently learning how to read + write WIF format
-- 💼 Working @fathominfo
+- 💼 Currently at Trio Health, previously @fathominfo
